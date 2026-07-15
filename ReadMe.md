@@ -1,1 +1,1 @@
-# This is a local repository
+# This is a local repository. Updating JIRA-1211 details
